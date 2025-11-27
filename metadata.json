@@ -1,0 +1,5 @@
+{
+  "name": "EPS Hub",
+  "description": "A clean, mobile-first web app for physical education teachers to upload, discover, create and share worksheets (EPS files) and fiches.",
+  "requestFramePermissions": []
+}
